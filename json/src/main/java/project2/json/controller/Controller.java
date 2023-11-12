@@ -34,7 +34,7 @@ public class Controller {
     }
 
     /**
-     * 휴면 계정 조회
+     * 휴면 계정 조회 2
      * @return
      */
     @GetMapping("/dormant2")
