@@ -36,7 +36,7 @@ public class CustomerRepository {
 
 
     /**
-     * 휴먼 계정으로 조회
+     * 휴면 계정으로 조회
      * @param status
      * @return
      */
@@ -49,7 +49,7 @@ public class CustomerRepository {
 
 
     /**
-     * 휴먼 계정으로 조회 2
+     * 휴면 계정으로 조회 2
      * @param status
      * @return
      */

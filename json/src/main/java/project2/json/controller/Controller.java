@@ -25,7 +25,7 @@ public class Controller {
     }
 
     /**
-     * 휴먼 계정 조회
+     * 휴면 계정 조회
      * @return
 //     */
     @GetMapping("/dormant")
@@ -34,7 +34,7 @@ public class Controller {
     }
 
     /**
-     * 휴먼 계정 조회
+     * 휴면 계정 조회
      * @return
      */
     @GetMapping("/dormant2")
